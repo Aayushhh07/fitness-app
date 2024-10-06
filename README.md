@@ -16,7 +16,7 @@ In this project , we have tried to make a perfect clone of myfitnesspal.com.
 
 ## Clone the following git repository inside any folder:
 
-* https://github.com/pranit95/Find-Your-Fit
+* https://github.com/Aayushhh07/fitness-app.git
 
 ##  Open the cloned git repo in VS Code :
 
@@ -101,16 +101,4 @@ In this project , we have tried to make a perfect clone of myfitnesspal.com.
 ### End-notes
 We have tried our best to give mostly all the functionality available on the actual website.
 
-### Contributors:
 
-* Archana Singh
-
-  * Github : [archana-sing](https://github.com/archana-sing)
-  
-* Pranit Jogwe
-
-  * Github : [pranit95](https://github.com/pranit95)
-  
-* Narsimhulu Vasam
-
-  * Github : [Narsimhuluv](https://github.com/Narasimhuluv)
