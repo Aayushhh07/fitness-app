@@ -32,7 +32,7 @@ To Setup this project run
 
 ```
 
-git clone <https://github.com/shuence/FitClub>
+git clone https://github.com/Aayushhh07/fitness-app.git
 cd Fitclub
 yarn install
 yarn start
@@ -45,24 +45,5 @@ yarn start
 - Cool UI/UX
 - Easy to deploy
 
-## Contributing
 
-Contributions are always welcome!
 
-Please adhere to this project's `code of conduct`.
-
-# Hi, I'm Shuence! 👋
-
-## 🚀 About Me
-
-I'm Shubham A FY B.Tech Student
-
-A Frontend Developer
-
-## 🛠 Skills
-
-Reactjs, Javascript, HTML, CSS
-
-## Happy coding 💯
-
-Made with love from Shuence ❤️
