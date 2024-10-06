@@ -10,13 +10,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [React Docs](https://beta.reactjs.org/)
 - [Stackoverflow](https://stackoverflow.com/)
 
-## Authors
 
-- [@Shuence](https://www.github.com/shuence)
-
-## Badges
-
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-gre.svg)](https://opensource.org/licenses/)
 
 ## Live Preview
 
