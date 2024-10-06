@@ -5,7 +5,7 @@ MyFitnessPal is a company developing a platform for keeping a food diary.
 The platform enables users to browse the food database and recipes, track calories with both the web version and mobile apps. 
 
 In this project , we have tried to make a perfect clone of myfitnesspal.com.
-### Demo of the product : https://bit.ly/3xWOsmt
+
 
 # Steps to install the project:
 
